@@ -14,7 +14,7 @@ A modern Flutter-based admin panel designed to manage smart switch devices. This
 ## 📸 Preview
 
 > UI Screenshot  
-> ![Smart Switch Admin UI](screenshot.png)
+> ![Smart Switch Admin UI](smart-switch-ss.png)
 
 ---
 
@@ -40,4 +40,6 @@ A modern Flutter-based admin panel designed to manage smart switch devices. This
 git add README.md
 git commit -m "Added README"
 git push
+
+t push
 
